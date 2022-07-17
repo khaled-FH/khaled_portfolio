@@ -6,7 +6,12 @@ I believe that soon data analysis skill set will be necessary to acquire by each
 ![Projects ](https://user-images.githubusercontent.com/83392117/179399191-cad719f4-b612-483f-bff7-b2a7d1697fd7.png)  
 [![icons8-google-100](https://user-images.githubusercontent.com/83392117/179399648-a1861f4e-6447-4322-a86a-ee6bafd53896.png)Google Capstone - Cyclistic bike share](https://khaled-fh.github.io/google_capstone/)
 
-This project done by using SQL-BigQuerry, visualization created in Tableau, and you can download the final presentation from [here](https://downgit.github.io/#/home?url=https://github.com/khaled-FH/google_capstone/blob/main/Cyclistic%20Riders%E2%80%99%20Behavior%20Analysis.pptx)
+This project done by using SQL-BigQuerry, visualization created in Tableau, and you can download the final presentation from [here](https://downgit.github.io/#/home?url=https://github.com/khaled-FH/google_capstone/blob/main/Cyclistic%20Riders%E2%80%99%20Behavior%20Analysis.pptx)  
+![Skills ](https://user-images.githubusercontent.com/83392117/179420839-30aa2951-95db-4138-a2ca-60732b1a2291.png)  
+![Skill Set](https://user-images.githubusercontent.com/83392117/179421309-51026c1b-b082-4d1b-84ee-689affdaed2e.png)
+
+
+
 
 
 
