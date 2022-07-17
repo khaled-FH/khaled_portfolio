@@ -10,8 +10,7 @@ This project done by using SQL-BigQuerry, visualization created in Tableau, and 
 ![Skills ](https://user-images.githubusercontent.com/83392117/179420839-30aa2951-95db-4138-a2ca-60732b1a2291.png)  
 ![Skill Set](https://user-images.githubusercontent.com/83392117/179421309-51026c1b-b082-4d1b-84ee-689affdaed2e.png)  
 The skills mentioned above are only related to data analytics, for other skills and information about me please visit my linkedin profile from the below link.  
-[![Linkedin](https://user-images.githubusercontent.com/83392117/179422097-3d1fdf27-09ab-4190-bc7e-6a72483bda20.png)](https://www.linkedin.com/in/khaled-faisal-cma%C2%AE-200a151b0/)
-
+[<img src="https://user-images.githubusercontent.com/83392117/179422097-3d1fdf27-09ab-4190-bc7e-6a72483bda20.png" width="100">](https://www.linkedin.com/in/khaled-faisal-cma%C2%AE-200a151b0/)
 
 
 
